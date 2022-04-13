@@ -1,0 +1,41 @@
+_repo: A-Intrusa_67594
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Almeida, Júlia Lopes de
+    aliases:
+    - Silveira Lopes de Almeida, Júlia Valentina da
+    - Lopes de Almeida, Júlia
+    - Almeida, Julia Lopes de
+    - De Almeida, Júlia Lopes
+    birthdate: 1862
+    deathdate: 1934
+    gutenberg_agent_id: '54351'
+    url: http://www.gutenberg.org/2009/agents/54351
+    wikipedia:
+    - https://en.wikipedia.org/wiki/J%C3%BAlia_Lopes_de_Almeida
+    - https://pt.wikipedia.org/wiki/J%C3%BAlia_Lopes_de_Almeida
+description: ''
+gutenberg_issued: '2022-03-09'
+identifiers:
+  gutenberg: '67594'
+language: pt
+pgterms:marc904: https://catalog.hathitrust.org/Record/007442487
+pgterms:marc905: 20220304054608dealmeida
+pgterms:marc906: '1908'
+pgterms:marc907: BR
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: Brazil :Francisco Alves,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brazilian fiction -- 20th century'
+- !lcsh 'Household employees -- Fiction'
+- !lcsh 'Master and servant -- Fiction'
+- !lcsh 'Brazil -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: A Intrusa
+url: http://www.gutenberg.org/ebooks/67594
