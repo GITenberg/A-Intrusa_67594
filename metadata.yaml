@@ -1,5 +1,8 @@
 _repo: A-Intrusa_67594
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67594-h/images/intrusa_cover.jpg
 creator:
   author:
     agent_name: Almeida, Júlia Lopes de
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/J%C3%BAlia_Lopes_de_Almeida
     - https://pt.wikipedia.org/wiki/J%C3%BAlia_Lopes_de_Almeida
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67594#A-Intrusa
 gutenberg_issued: '2022-03-09'
 identifiers:
   gutenberg: '67594'
